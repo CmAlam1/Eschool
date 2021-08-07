@@ -35,3 +35,43 @@ h1{
     font-weight: 700;
     
 }
+.pic{
+    width: 80px;
+    height: 83px;
+    margin: auto;
+    margin-top: 40px;
+}
+.second{
+    margin-top: 30px;
+}
+.card-title{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+    margin-top: 5px;
+}
+.card{
+    border: none;
+    box-shadow: 10px 10px 10px lightgray;
+    border-radius: 15px;
+}
+.card-textt{
+    margin-top: 4px;
+}
+.btnn{
+    color: #FFFFFF;
+    background-color:#21B573;
+    border-radius: 30px;
+    width: 153px;
+    height: 43px;
+    margin-top: 3px;
+    border: none;
+}
+h3{
+    text-align: center;
+    margin-top: 60px;
+}
+.third{
+    margin-top: 50px;
+}
